@@ -1,0 +1,9 @@
+{
+  "name": "myapp",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "bulma-extensions": "^6.2.7",
+    "bulma-pricingtable": "^0.2.0"
+  }
+}
