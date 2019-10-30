@@ -14,4 +14,3 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
-import bulmaPricingtable from '/node_modules/bulma-extensions/bulma-pricingtable/dist/bulma-pricingtable.min.js';
